@@ -13,5 +13,3 @@ Our database schema:
 "age" - 'string'
 "city" - 'string'
 "country" - 'string'
-"created_at" - 'string'
-"referral" - 'string'
