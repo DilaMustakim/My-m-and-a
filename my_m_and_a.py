@@ -3,7 +3,7 @@ from io import StringIO
 from my_ds_babel import csv_to_sql
 from functions import *
 import warnings
-warnings.filterwarnings("ignore")
+# warnings.filterwarnings("ignore")
 
 def my_m_and_a (data, data2, data3):
     # Cleaning DataFrames
